@@ -1,14 +1,5 @@
 {% assign posts_limit = page.posts_limit | default: 10 %}
 
 {%- for entry in site.posts limit: posts_limit -%}
-  <!-- {% include entry.html %} -->
-    <h3 class="entry-title p-name">
-        <a href="{{ url }}" rel="bookmark">{{ title }}</a>
-    </h3>
-    <footer class="entry-meta">
-        {% if site.read_time %}{% include read-time.html %}{% endif %}
-        {% if entry.date %}{% include entry-date.html %}{% endif %}
-        &nbsp;|&nbsp;<a href="{{ entry.url | relative_url }}" rel="bookmark">More...</a>
-    </footer>
-    {{ entry.excerpt }}
+    {% include entry.html %}
 {%- endfor -%}
