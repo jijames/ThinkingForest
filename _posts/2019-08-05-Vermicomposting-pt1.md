@@ -1,8 +1,10 @@
 ---
-title: Vermicomposting 101 - Getting Started
 layout: post
-description: An introduction into vermicomposting including how to get started.
-tags: [vermicomposting]
+title: Vermicomposting 101 - Getting Started
+slug: "vermicomposting 101 getting started"
+author: Joshua
+share: true
+tags: vermicomposting
 ---
 
 Today we are talking about vermicomposting; *using worms to break down food-waste into soil*. There are already some [excellent resources](https://lancaster.unl.edu/pest/resources/vermicompost107.shtml) online about how to get set up for vermicomposting.

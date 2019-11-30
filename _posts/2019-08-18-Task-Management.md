@@ -1,8 +1,10 @@
 ---
-title: Thinking about task management
 layout: post
-description: A discussion about task organization and management
-tags: [task management, productivity, books]
+title: Thinking about task management
+slug: "thinking about task management"
+author: Joshua
+share: true
+tags: task management, productivity, books
 ---
 
 During the summer break, we went through a late spring-cleaning. For me,

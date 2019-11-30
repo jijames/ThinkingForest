@@ -1,8 +1,10 @@
 ---
-title: Homebrew 101 - Easy home-made honey wine (mead)
 layout: post
-description: A discussion about some of the wine that I am currently homebrewing.
-tags: [homebrew]
+title: Homebrew 101 - Easy home-made honey wine (mead)
+slug: "homebrew 101 easy home-made honey wine mead"
+author: Joshua
+tags: homebrew
+share: true
 ---
 
 This video is an explanation about how I started home-made wine (homebrew) with nothing more than a simple mead recipe and two-litre plastic bottles.

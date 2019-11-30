@@ -1,8 +1,9 @@
 ---
-title: Airlocks - the best tool for homebrew!
 layout: post
+title: Airlocks the best tool for homebrew!
+slug: "airlocks best tool homebrew"
 author: Joshua
-tags: [homebrew]
+tags: homebrew
 share: true
 ---
 
