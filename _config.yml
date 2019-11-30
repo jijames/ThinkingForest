@@ -13,6 +13,7 @@ description: "A place to relax and think about life"
 baseurl: ""
 url: "https://ThinkingForest.org"
 logo: "/assets/images/avatar.jpg"
+timezone: Asia/Seoul
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200

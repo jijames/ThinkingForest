@@ -1,16 +1,11 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Joshua:
+  name: Joshua I. James
+  picture: "/assets/images/Joshua_I_James.jpeg"
+  twitter: "@ThinkingForest"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/ThinkingForest
       icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
