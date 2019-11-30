@@ -6,7 +6,7 @@
 # in the templates via {{ site.myvariable }}.
 #theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/dark.css"
 locale: en-US
 title: "The Thinking Forest"
 description: "A place to relax and think about life"
@@ -14,14 +14,14 @@ baseurl: ""
 url: "https://ThinkingForest.org"
 logo: "/assets/images/avatar.jpg"
 timezone: Asia/Seoul
-date_format: "%B %-d, %Y"
+date_format: "%Y-%m-%d"
 read_time: true
 words_per_minute: 200
 #mathjax: # MathJax equations, e.g. true
 google_fonts:
-  - name: "Source Sans Pro"
+  - name: "Roboto"
     weights: "400,400i,700,700i"
-  - name: "Lora"
+  - name: "Roboto Slab"
     weights: "400,400i,700,700i"
 #google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 #disqus:
@@ -41,8 +41,8 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+paginate: 10
+paginate_path: /page:num/
 
 # Search
 search_full_content: true # can have performance implications for large sites
@@ -99,3 +99,5 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+copyright: "Copyright 2019-2020 Joshua I. James. All rights reserved."
