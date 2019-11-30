@@ -80,15 +80,15 @@ defaults:
       share: true
 
 # Site Author
-#author: "Joshua"
-#  name: "Joshua. I. James"
-#  picture: "/assets/images/Joshua_I_James.jpeg"
-#  email: "hvva+ThinkingForest@pm.me"
-#  twitter: "ThinkingForest"
-#  links:
-#    - title:
-#      url:
-#      icon:
+author:
+  name: "Joshua. I. James"
+  picture: "/assets/images/Joshua_I_James.jpeg"
+  email: "hvva+ThinkingForest@pm.me"
+  twitter: "ThinkingForest"
+  links:
+    - title: "[Book] Living your dreams
+      url: "https://amzn.to/37QEZ2Y"
+      icon:
 
 # Footer Links
 footer_links:
