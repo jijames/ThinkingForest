@@ -84,14 +84,17 @@ author:
   name: "Joshua. I. James"
   picture: "/assets/images/Joshua_I_James.jpeg"
   email: "hvva+ThinkingForest@pm.me"
-  twitter: "ThinkingForest"
+  twitter: "https://twitter.com/ThinkingForest"
   links:
     - title: "[Book] Living your dreams"
       url: "https://amzn.to/37QEZ2Y"
-      icon:
+      icon: fas fa-amazon
 
 # Footer Links
 footer_links:
+  - title: "[Book] Living your dreams"
+      url: "https://amzn.to/37QEZ2Y"
+      icon: fas fa-amazon
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
