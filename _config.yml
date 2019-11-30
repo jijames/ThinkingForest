@@ -5,7 +5,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #theme: jekyll-theme-so-simple
-#remote_theme: "mmistakes/so-simple-theme@3.2.0"
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "The Thinking Forest"
@@ -80,15 +80,15 @@ defaults:
       share: true
 
 # Site Author
-author: "Joshua"
-  name: "Joshua. I. James"
-  picture: "/assets/images/Joshua_I_James.jpeg"
-  email: "hvva+ThinkingForest@pm.me"
-  twitter: "ThinkingForest"
-  links:
-    - title:
-      url:
-      icon:
+#author: "Joshua"
+#  name: "Joshua. I. James"
+#  picture: "/assets/images/Joshua_I_James.jpeg"
+#  email: "hvva+ThinkingForest@pm.me"
+#  twitter: "ThinkingForest"
+#  links:
+#    - title:
+#      url:
+#      icon:
 
 # Footer Links
 footer_links:
