@@ -12,7 +12,7 @@
     <footer class="entry-meta">
         {% if site.read_time %}{% include read-time.html %}{% endif %}
         {% if entry.date %}{% include entry-date.html %}{% endif %}
+        <a href="{{ entry.url | relative_url }}" rel="bookmark">More...</a>
     </footer>
     {{ entry.excerpt }}
-    <a href="{{ entry.url | relative_url }}" rel="bookmark">More...</a>
 {%- endfor -%}
