@@ -3,9 +3,12 @@
 
 Joshua:
   name: Joshua I. James
-  picture: "/assets/images/Joshua_I_James.jpeg"
+  picture: "/assets/images/JoshuaProfile.jpg"
   twitter: "@ThinkingForest"
   links:
+    - title: GoodReads
+      url: https://www.goodreads.com/author/show/14412111.Joshua_I_James
+      icon: fab fa-goodreads
     - title: Twitter
       url: https://twitter.com/ThinkingForest
       icon: fab fa-twitter-square
