@@ -3,7 +3,7 @@
 {%- for entry in site.posts limit: posts_limit -%}
   <!-- {% include entry.html %} -->
     <h3 class="entry-title p-name">
-        <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
+        {{ title }}
     </h3>
     <footer class="entry-meta">
         {% if site.read_time %}{% include read-time.html %}{% endif %}
