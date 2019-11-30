@@ -1,15 +1,17 @@
 ---
-layout: default
+layout: page
 ---
-{%- assign _sections = site.sections | sort: 'order' -%}
-{%- include header.html scrolly_nav=_sections -%}
-<!-- Main -->
-<div id="main">
-	{%- if page.content != "" -%}
-		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
-	{%- endif -%}
-	<!-- Sections -->
-	{%- for _section in _sections -%}
-		{%- include section.html title=_section.title photo=_section.cover-photo photo-alt=_section.cover-photo-alt auto-header=_section.auto-header content=_section.content -%}
-	{%- endfor -%}
+
+{{ content }}
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {%- if site.plugins contains 'jekyll-paginate' and page.paginate or site.gems contains 'jekyll-paginate' and page.paginate -%}
+    {%- comment -%}
+      Add paginator.posts loop if jekyll-paginate plugin is enabled
+      and page.paginate == true
+    {%- endcomment -%}
+    {% include posts-paginated.html %}
+  {%- else -%}
+    {% include posts-limit.html %}
+  {%- endif -%}
 </div>
