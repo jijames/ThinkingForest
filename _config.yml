@@ -95,7 +95,7 @@ author:
 footer_links:
   - title: Dreams
     url: https://amzn.to/37QEZ2Y
-    icon: fas fa-amazon
+    icon: fa fa-amazon
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
