@@ -2,10 +2,17 @@
 
 {%- for entry in site.posts limit: posts_limit -%}
   <!-- {% include entry.html %} -->
-    <h2><a href="{{ entry.url }}">{{ entry.title }}</a></h2>
+    <h3 class="entry-title p-name">
+      {% if entry.link %}
+        <a class="u-bookmark-of" href="{{ entry.link }}">{{ title }}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
+      {% else %}
+        <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
+      {% endif %}
+    </h3>
     <footer class="entry-meta">
         {% if site.read_time %}{% include read-time.html %}{% endif %}
         {% if entry.date %}{% include entry-date.html %}{% endif %}
     </footer>
     {{ entry.excerpt }}
+    <a href="{{ entry.url | relative_url }}" rel="bookmark">More...</a>
 {%- endfor -%}
