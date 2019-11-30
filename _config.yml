@@ -12,7 +12,7 @@ title: "The Thinking Forest"
 description: "A place to relax and think about life"
 baseurl: ""
 url: "https://ThinkingForest.org"
-logo: "/assets/images/avatar.jpeg"
+logo: "/assets/images/avatar.jpg"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -33,8 +33,8 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:year/:title/
-#permalink: /:slug/
+#permalink: /:year/:title/
+permalink: /:slug/
 markdown: kramdown
 feed:
   path: atom.xml
