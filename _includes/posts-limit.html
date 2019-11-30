@@ -2,6 +2,10 @@
 
 {%- for entry in site.posts limit: posts_limit -%}
   <!-- {% include entry.html %} -->
-    <a href="{{ entry.url }}">{{ entry.title }}</a>
+    <h2><a href="{{ entry.url }}">{{ entry.title }}</a></h2>
+    <footer class="entry-meta">
+        {% if site.read_time %}{% include read-time.html %}{% endif %}
+        {% if entry.date %}{% include entry-date.html %}{% endif %}
+    </footer>
     {{ entry.excerpt }}
 {%- endfor -%}
