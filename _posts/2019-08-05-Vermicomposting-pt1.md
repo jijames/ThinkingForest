@@ -5,11 +5,12 @@ slug: "vermicomposting 101 getting started"
 author: Joshua
 share: true
 tags: vermicomposting
+excerpt_separator: <!--more-->
 ---
 
 Today we are talking about vermicomposting; *using worms to break down food-waste into soil*. There are already some [excellent resources](https://lancaster.unl.edu/pest/resources/vermicompost107.shtml) online about how to get set up for vermicomposting.
 Today I just wanted to talk about our reasons and experience at The Thinking Forest.
-
+<!--more-->
 Everything I'm going to talk about is my little DIY experiment. You might save yourself a lot of trouble by investing in a [vermicomposting bin](https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=thethinkingfo-20&keywords=vermicomposting bin&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=8e7c30381c258b02efccdddf2dd56c8f). They usually have different levels built-in so you can easily separate the worms from the compost.
 
 ### Why did we do it?

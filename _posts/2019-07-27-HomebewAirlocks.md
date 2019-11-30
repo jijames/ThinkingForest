@@ -5,10 +5,11 @@ slug: "airlocks best tool homebrew"
 author: Joshua
 tags: homebrew
 share: true
+excerpt_separator: <!--more-->
 ---
 
 We have made a few batches of homebrew wine so far at The Thinking Forest. One of the significant problems we have had as beginner winemakers is that we bottle the wine too early, and it is still fermenting in the final container. A little bit would be nice, so we can get a good fizz. However, one of our glass bottles **exploded**, which is not what we want.
-
+<!--more-->
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/txaCwbxQny4' frameborder='0' allowfullscreen></iframe></div>
 
 One solution is to keep your wine in plastic bottles and release the pressure often; especially on hot days. The other option is to get an airlock.

@@ -5,11 +5,12 @@ slug: "thinking about task management"
 author: Joshua
 share: true
 tags: task management, productivity, books
+excerpt_separator: <!--more-->
 ---
 
 During the summer break, we went through a late spring-cleaning. For me,
 physically cleaning things out is never a big issue. I'm relatively minimalist and willing to get rid of anything that doesn't have a use.
-
+<!--more-->
 It also helped that at the beginning of the summer I read [The Minimalist Way](https://amzn.to/31NoRey) by
 Erica Layne.
 
