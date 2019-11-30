@@ -89,13 +89,13 @@ author:
   links:
     - title: "[Book] Living your dreams"
       url: "https://amzn.to/37QEZ2Y"
-      icon: fas fa-amazon
+      icon: fab fa-amazon
 
 # Footer Links
 footer_links:
   - title: Dreams
     url: https://amzn.to/37QEZ2Y
-    icon: fa fa-amazon
+    icon: fab fa-amazon
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
