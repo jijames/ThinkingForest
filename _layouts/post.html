@@ -1,0 +1,27 @@
+---
+layout: default
+---
+{%- include header.html -%}
+
+<!-- Main -->
+<div id="main">
+	<!-- Post -->
+	<article class="shade-two">
+	  <div class="container">
+			<header>
+				<h2>{{- page.title -}}</h2>
+				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}
+					<small>
+						{% if page.tags %} <br /><span class="tags">
+							{% for tag in page.tags %}
+								<a href="/tags#{{ tag }}">{{ tag }}</a>
+							{% endfor %}
+						{% endif %}
+						</span>
+					</small>
+				</p>
+			</header>
+	    {{- content -}}
+	  </div>
+	</article>
+</div>

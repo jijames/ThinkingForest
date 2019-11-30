@@ -1,0 +1,17 @@
+---
+title: Tags
+layout: page
+icon: tag
+permalink: {{ site.url }}/tags
+hide: true
+robots: noindex, nofollow
+---
+
+{% for tag in site.tags %}
+  <h3 name="{{ tag[0] }}">{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li>{{- post.date | date_to_long_string -}}: <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
