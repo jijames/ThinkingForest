@@ -94,8 +94,8 @@ author:
 # Footer Links
 footer_links:
   - title: Dreams
-      url: "https://amzn.to/37QEZ2Y"
-      icon: fas fa-amazon
+    url: https://amzn.to/37QEZ2Y
+    icon: fas fa-amazon
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
