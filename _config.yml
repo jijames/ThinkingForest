@@ -12,7 +12,7 @@ title: "The Thinking Forest"
 description: "A place to relax and think about life"
 baseurl: ""
 url: "https://ThinkingForest.org"
-logo: "/assets/images/avatar.jpg"
+logo: "/assets/images/LYD-Cover.jpg"
 timezone: Asia/Seoul
 date_format: "%Y-%m-%d"
 read_time: true
