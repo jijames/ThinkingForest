@@ -8,7 +8,7 @@ tags: dreams productivity books goals
 excerpt_separator: <!--more-->
 ---
 
-[![Book Cover for Living Your Dreams](/assets/images/LYD-Cover.jpg)](https://amzn.to/2rCTvLm)
+[![Book Cover for Living Your Dreams](https://ThinkingForest.org/assets/images/LYD-Cover.jpg)](https://amzn.to/2rCTvLm)
 
 Our book *Living Your Dreams: How to make a living doing what you love* is now [available](https://amzn.to/2rCTvLm)!
 Get over to Amazon and reserve your copy now!
