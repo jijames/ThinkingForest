@@ -4,7 +4,7 @@ title: "Living Your Dreams Book is now available on Amazon!"
 slug: "living your dreams book available for sale"
 author: Joshua
 share: true
-tags: dreams, productivity, books, goals
+tags: dreams productivity books goals
 excerpt_separator: <!--more-->
 ---
 
