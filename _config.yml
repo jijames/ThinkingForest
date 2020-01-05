@@ -37,7 +37,7 @@ liquid:
 #permalink: /:year/:title/
 permalink: /:slug/
 markdown: kramdown
-  smart_quotes:               apos,apos,quot,quot
+  smart_quotes: apos,apos,quot,quot
 feed:
   path: atom.xml
 
