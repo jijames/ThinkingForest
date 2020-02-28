@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revisiting the inbox"
+title: "Revisiting the Inbox"
 slug: "Getting control of your email"
 author: Joshua
 share: true
@@ -114,7 +114,7 @@ This is the workflow plan:
    1. Trash or Someday or Reference
 3. Actionable - Yes
    1. <5 min? - Do it, then delete
-   2. >5 min? - In the task list
+   2. 5 min+? - In the task list
       1. Email contains useful info - Info (tag)
       2. No info - delete
 4. Review someday/maybe - 1 yr
