@@ -10,10 +10,10 @@
 #   url: /tags/
 # - title: Recipes
 #   url: /recipes/
-- title: "Live your dreams"
+- title: "Books"
   url: "https://amzn.to/37QEZ2Y"
-- title: Youtube
-  url: "https://www.youtube.com/channel/UChy5sHFXNrICWqxs1ChQwzw"
+#- title: Youtube
+#  url: "https://www.youtube.com/channel/UChy5sHFXNrICWqxs1ChQwzw"
 - title: Search
   url: /search/
 
